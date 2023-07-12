@@ -19,7 +19,7 @@
 
 - 😅 Always wanting to contribute to OpenSource and never doing it...
 
-### I'm currently working on
+### I'm currently working on 🤖 
 
 - Generative AI
   
@@ -29,7 +29,7 @@
   
 - RAG Applications
 
-### ... with this stack
+### ... with this stack 💻
 
 - Python 3.11
   
