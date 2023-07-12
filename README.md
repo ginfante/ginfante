@@ -6,6 +6,6 @@
   
 - 🧠 Focused on AI/NLP
   
-- 🚀 Like building innovative stuff
+- 🚀 Enjoy building ML-powered stuff
   
 - 🚴‍♂️ Sports every now and then...
