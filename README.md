@@ -33,7 +33,7 @@
   
 - HF Transformers, Datasets
   
-- ChromaDB
+- VectorDBs [ChromaDB, Weaviate]
 
 - FastAPI
   
