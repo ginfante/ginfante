@@ -6,6 +6,8 @@
 - 🤓 Ph.D. in Computer Science
   
 - 👨‍💼 CTO
+
+- 🛠️ Coder
   
 - 🧠 Focused on AI/NLP
   
@@ -32,6 +34,8 @@
 - HF Transformers, Datasets
   
 - ChromaDB
+
+- FastAPI
   
 - LangChain
   
