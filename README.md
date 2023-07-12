@@ -8,8 +8,6 @@
 - 👨‍💼 CTO
 
 - 🛠️ Coder
-
-- 💪 Manager
   
 - 🧠 Focused on AI/NLP
   
