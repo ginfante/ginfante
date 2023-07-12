@@ -1,4 +1,5 @@
 ### Hi! I'm Guillermo Infante
+---
 
 - 🤓 Ph.D. in Computer Science
   
@@ -9,6 +10,8 @@
 - 🚀 Enjoy building ML-powered stuff
   
 - 🚴‍♂️ Sports every now and then...
+
+- 😅 Always wanting to contribute to OpenSource and never doing it
 
 ### I'm currently working on
 
