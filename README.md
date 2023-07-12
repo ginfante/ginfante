@@ -1,5 +1,7 @@
-### Hi! I'm Guillermo Infante
----
+<a href="https://www.linkedin.com/in/ginfante" target="_blank" rel="nofollow">
+  <img align="right" alt="LinkedIn" height="43px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a>
+
+# Hi! I'm Guillermo Infante
 
 - 🤓 Ph.D. in Computer Science
   
