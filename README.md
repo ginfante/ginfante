@@ -15,7 +15,7 @@
   
 - 🚴‍♂️ Sports every now and then...
 
-- 😅 Always wanting to contribute to OpenSource and never doing it
+- 😅 Always wanting to contribute to OpenSource and never doing it...
 
 ### I'm currently working on
 
