@@ -16,6 +16,6 @@
   
 - In-context learning / RLHF / PEFT
   
-- Zero-shot Intelligent Document Processing
+- Zero-to-few-shot Intelligent Document Processing
   
 - RAG Applications
