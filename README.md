@@ -24,3 +24,17 @@
 - Zero-to-few-shot Intelligent Document Processing
   
 - RAG Applications
+
+### ... with this stack
+
+- Python 3.11
+  
+- HF Transformers, Datasets
+  
+- ChromaDB
+  
+- LangChain
+  
+- OpenAI
+  
+- AWS [SageMaker, S3, Lambda] 
