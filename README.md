@@ -21,7 +21,7 @@
 
 - Generative AI
   
-- In-context learning / RLHF / PEFT
+- In-context learning
   
 - Zero-to-few-shot Intelligent Document Processing
   
