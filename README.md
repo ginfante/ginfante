@@ -25,7 +25,7 @@ Here are a few bullets about me:
   
 - In-context learning
   
-- Zero-to-few-shot Intelligent Document Processing
+- Zero-to-few-shot for pretty much any NLP task I can think of 
   
 - RAG Applications
 
