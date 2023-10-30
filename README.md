@@ -35,7 +35,7 @@ Here are a few bullets about me:
   
 - HF Transformers, Datasets
   
-- VectorDBs [ChromaDB, Weaviate]
+- VectorDBs [ChromaDB, Weaviate, Pgvector]
 
 - FastAPI
   
