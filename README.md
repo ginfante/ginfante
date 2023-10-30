@@ -43,6 +43,4 @@ Here are a few bullets about me:
   
 - OpenAI
   
-- AWS [SageMaker, S3, Lambda]
-
-- Streamlit
+- AWS [SageMaker, S3, Lambda, Bedrock]
