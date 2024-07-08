@@ -3,7 +3,7 @@
 
 # Hi! I'm Guillermo 
 
-Here are a few bullets about me:
+### Here are a few bullets about me:
 
 - 🤓 Ph.D. in Computer Science
   
