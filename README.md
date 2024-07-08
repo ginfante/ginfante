@@ -22,8 +22,8 @@ Here are a few bullets about me:
 ### I'm currently working on 🤖 
 
 - Generative AI
-  
-- In-context learning
+
+- Agentic Architectures
   
 - Zero-to-few-shot for pretty much any NLP task I can think of 
   
