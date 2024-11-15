@@ -31,16 +31,20 @@
 
 ### ... with this stack 💻
 
-- Python 3.11
+- Python
   
 - HF Transformers, Datasets
+
+- Dagster
   
-- VectorDBs [ChromaDB, Weaviate, Pgvector]
+- Vectors' retrieval [ChromaDB, Weaviate, Pgvector, FAISS]
 
 - FastAPI
   
 - LangChain
+
+- DSPy
   
-- OpenAI
+- OpenAI, Bedrock, Groq, Replicate, Ollama
   
-- AWS [SageMaker, S3, Lambda, Bedrock]
+- AWS [SageMaker, S3, Lambda]
