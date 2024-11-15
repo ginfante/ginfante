@@ -21,13 +21,15 @@
 
 ### I'm currently working on 🤖 
 
-- Generative AI
+- LLM Reasoning
 
 - Agentic Architectures
+
+- Knowledge Graphs + LLMs
   
-- Zero-to-few-shot for pretty much any NLP task I can think of 
+- Zero-to-few-shot for pretty much any NLP task
   
-- RAG Applications
+- LM Applications [CoT, ReAct] + RAG
 
 ### ... with this stack 💻
 
@@ -39,11 +41,9 @@
   
 - Vectors' retrieval [ChromaDB, Weaviate, Pgvector, FAISS]
 
-- FastAPI
+- Model as a Service [FastAPI]
   
-- LangChain
-
-- DSPy
+- LM Apps [LangChain, DSPy]
   
 - OpenAI, Bedrock, Groq, Replicate, Ollama
   
