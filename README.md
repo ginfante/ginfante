@@ -33,18 +33,18 @@
 
 ### ... with this stack 💻
 
-- Python
+- Language & ecosystem [Python]
   
-- HF Transformers, Datasets
+- Model Dev [HF Transformers, PEFT, Accelerate]
 
-- Dagster
+- Data [Dagster, HF Datasets]
   
 - Vectors' retrieval [ChromaDB, Weaviate, Pgvector, FAISS]
 
-- Model as a Service [FastAPI]
+- Model as a Service [FastAPI, Docker, Ollama]
   
 - LM Apps [LangChain, DSPy]
   
-- OpenAI, Bedrock, Groq, Replicate, Ollama
+- LM APIs [OpenAI, Bedrock, Groq, Replicate]
   
 - AWS [SageMaker, S3, Lambda]
